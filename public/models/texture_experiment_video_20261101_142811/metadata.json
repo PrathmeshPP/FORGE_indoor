@@ -1,0 +1,48 @@
+{
+  "dataset": "WhatsApp Video 2026-11-01 at 14.28.11.mp4",
+  "experiment_id": "texture_experiment_video_20261101_142811",
+  "timestamp": "2026-11-01 16:41:31",
+  "reference_pipeline": "texture_experiment_video1",
+  "reconstruction_status": "CANONICAL_POISSON_PHOTOGRAPHIC_PASS",
+  "pipeline_stages": {
+    "stage_a_curation_sec": 0.6,
+    "stage_b_camera_poses_sec": 3.65,
+    "stage_c_pointcloud_sec": 5.37,
+    "stage_d_poisson_sec": 65.64,
+    "stage_e_decimation_sec": 21.78,
+    "stage_f_texturing_sec": 41.86,
+    "total_runtime_sec": 118.53
+  },
+  "solution": {
+    "method": "Multi-View Occlusion-Aware Texture Baking Engine",
+    "surface_meshing": "Screened Poisson Surface Reconstruction (depth=9)",
+    "decimation": "Quadric Error Metric Decimation (target 250,000 faces)",
+    "atlas_resolution": [
+      4096,
+      4096
+    ],
+    "active_cameras": 40,
+    "surface_coverage_pct": 68.1,
+    "mesh_vertices": 123183,
+    "mesh_triangles": 250000
+  },
+  "deliverables": {
+    "raw_point_cloud": "C:\\Users\\25beevdt025\\Desktop\\FORGE\\outputs\\indoor\\texture_experiment_video_20261101_142811\\raw_point_cloud.ply",
+    "filtered_point_cloud": "C:\\Users\\25beevdt025\\Desktop\\FORGE\\outputs\\indoor\\texture_experiment_video_20261101_142811\\filtered_point_cloud.ply",
+    "poisson_mesh": "C:\\Users\\25beevdt025\\Desktop\\FORGE\\outputs\\indoor\\texture_experiment_video_20261101_142811\\meshes\\poisson_mesh.ply",
+    "surface_mesh": "C:\\Users\\25beevdt025\\Desktop\\FORGE\\outputs\\indoor\\texture_experiment_video_20261101_142811\\meshes\\surface_mesh.ply",
+    "texture_atlas": "C:\\Users\\25beevdt025\\Desktop\\FORGE\\outputs\\indoor\\texture_experiment_video_20261101_142811\\texture_atlas.png",
+    "canonical_obj": "C:\\Users\\25beevdt025\\Desktop\\FORGE\\outputs\\indoor\\texture_experiment_video_20261101_142811\\room_photographic_model_canonical.obj",
+    "canonical_mtl": "C:\\Users\\25beevdt025\\Desktop\\FORGE\\outputs\\indoor\\texture_experiment_video_20261101_142811\\room_photographic_model_canonical.mtl",
+    "textured_glb": "C:\\Users\\25beevdt025\\Desktop\\FORGE\\outputs\\indoor\\texture_experiment_video_20261101_142811\\room_photographic_model.glb",
+    "photographic_ply": "C:\\Users\\25beevdt025\\Desktop\\FORGE\\outputs\\indoor\\texture_experiment_video_20261101_142811\\room_photographic_model.ply"
+  },
+  "diagnostics": {
+    "comparative_card": "C:\\Users\\25beevdt025\\Desktop\\FORGE\\outputs\\indoor\\texture_experiment_video_20261101_142811\\renders\\comparative_texture_validation.png",
+    "atlas_png": "C:\\Users\\25beevdt025\\Desktop\\FORGE\\outputs\\indoor\\texture_experiment_video_20261101_142811\\texture_atlas.png",
+    "eye_level_render": "C:\\Users\\25beevdt025\\Desktop\\FORGE\\outputs\\indoor\\texture_experiment_video_20261101_142811\\renders\\exp_photographic_eye_level.png",
+    "oblique_render": "C:\\Users\\25beevdt025\\Desktop\\FORGE\\outputs\\indoor\\texture_experiment_video_20261101_142811\\renders\\exp_photographic_oblique.png",
+    "furniture_closeup_render": "C:\\Users\\25beevdt025\\Desktop\\FORGE\\outputs\\indoor\\texture_experiment_video_20261101_142811\\renders\\exp_photographic_furniture_closeup.png",
+    "top_plan_render": "C:\\Users\\25beevdt025\\Desktop\\FORGE\\outputs\\indoor\\texture_experiment_video_20261101_142811\\renders\\exp_photographic_top_plan.png"
+  }
+}

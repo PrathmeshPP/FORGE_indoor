@@ -1,0 +1,7 @@
+{
+  "scene_id": "indoor_candidate_g_tsdf_volumetric",
+  "display_name": "HOSTEL ROOM B 314 \u2014 CANDIDATE G (SCALABLE TSDF VOLUMETRIC)",
+  "category": "Indoor Architecture",
+  "triangles": 242105,
+  "vertices": 161011
+}

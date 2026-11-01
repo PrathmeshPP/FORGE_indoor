@@ -1,0 +1,40 @@
+{
+  "scene_id": "indoor_nov1_poisson",
+  "display_name": "HOSTEL ROOM B 314 \u2014 POISSON MESH (NOVEMBER 1)",
+  "source_ply": "C:/Users/25beevdt025/Desktop/FORGE/outputs/indoor/texture_experiment_video_20261101_142811/meshes/poisson_mesh.ply",
+  "file_size_bytes": 72213235,
+  "sha256": "80df04264c6addf8ac5df56bfc4169d2b9322b61126e64a6303678b4c2bbd3e5",
+  "vertex_count": 937663,
+  "triangle_count": 1876315,
+  "properties": [
+    "double x",
+    "double y",
+    "double z",
+    "double nx",
+    "double ny",
+    "double nz",
+    "uchar red",
+    "uchar green",
+    "uchar blue"
+  ],
+  "bounds": {
+    "x": [
+      -2.9624,
+      2.5117
+    ],
+    "y": [
+      -3.2333,
+      0.093
+    ],
+    "z": [
+      -3.6159,
+      3.7418
+    ]
+  },
+  "coordinate_rotation": [
+    3.141592653589793,
+    0,
+    0
+  ],
+  "source_video": "WhatsApp Video 2026-11-01 at 14.28.11.mp4"
+}

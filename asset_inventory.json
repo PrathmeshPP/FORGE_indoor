@@ -1,0 +1,1262 @@
+{
+  "generated_at": "2026-11-01T23:38:00Z",
+  "total_scenes": 39,
+  "scenes": [
+    {
+      "id": "indoor_my_movie_4_adaptive",
+      "name": "MY MOVIE 4 \u2014 ADAPTIVE 3D DIGITAL TWIN (VIEW-DEPENDENT LOD)",
+      "category": "Indoor Architecture",
+      "files": [
+        {
+          "name": "adaptive_spatial_chunks.json",
+          "size_bytes": 2470,
+          "size_mb": 0.0,
+          "sha256": "72a1fdc61e4d5b1853c9790d5b09bd7dccdf2fe4d2e9796abc1901fab7a37936",
+          "is_3d_model": false
+        },
+        {
+          "name": "metadata.json",
+          "size_bytes": 4768,
+          "size_mb": 0.0,
+          "sha256": "73ceb89f2893a1bc7dd0af84b80f09d7023735dc39941ac940981e7f84d00e5c",
+          "is_3d_model": false
+        },
+        {
+          "name": "preview_eye_level.png",
+          "size_bytes": 309404,
+          "size_mb": 0.3,
+          "sha256": "34039d9f9937f33bcdd1805c0c41b5af2892e3802eea6753887c2d1ff8d41975",
+          "is_3d_model": false
+        },
+        {
+          "name": "preview_thumbnail.png",
+          "size_bytes": 28016,
+          "size_mb": 0.03,
+          "sha256": "447f01f7c5024c9fb4b57af1c797468f85788b05c77d0b02d7c62e36514d77cd",
+          "is_3d_model": false
+        },
+        {
+          "name": "preview_top.png",
+          "size_bytes": 290179,
+          "size_mb": 0.28,
+          "sha256": "c60655e122efa9d0ec8629162d7232a002ade6edbf1290e77df29108d1db6bbc",
+          "is_3d_model": false
+        },
+        {
+          "name": "room_photographic_model_lod0.glb",
+          "size_bytes": 43750372,
+          "size_mb": 41.72,
+          "sha256": "2f6b4320cbbf1c6d18704327da457c5095d724ed29cdf1bd9ba0b24e9026db4f",
+          "is_3d_model": true
+        },
+        {
+          "name": "room_photographic_model_lod1.glb",
+          "size_bytes": 31950928,
+          "size_mb": 30.47,
+          "sha256": "d4ad6cddb449e73ddb68ddd485e6e1aa4b7a4fae596a4c05a2e87ed9a1e2915c",
+          "is_3d_model": true
+        },
+        {
+          "name": "room_photographic_model_lod2.glb",
+          "size_bytes": 9936380,
+          "size_mb": 9.48,
+          "sha256": "c3acbe2b44b661e7e414a3e42c0433c20153a70a7c29dd75529f968ef895254f",
+          "is_3d_model": true
+        }
+      ]
+    },
+    {
+      "id": "indoor_nov1_191043_photographic_v3",
+      "name": "NOVEMBER 1 \u2014 19:10:43 INDOOR DIGITAL TWIN (V3 QUALITY)",
+      "category": "Indoor Architecture",
+      "files": [
+        {
+          "name": "metadata.json",
+          "size_bytes": 223,
+          "size_mb": 0.0,
+          "sha256": "9341bbbd30987a7fccac5b42b83b81993beca866a5ab5eca55e52225709bbd0f",
+          "is_3d_model": false
+        },
+        {
+          "name": "preview_eye_level.png",
+          "size_bytes": 341941,
+          "size_mb": 0.33,
+          "sha256": "8f42d3262b58d5b33fdbac01950b6b9f2614c118170b3d8d351c99337e990060",
+          "is_3d_model": false
+        },
+        {
+          "name": "preview_thumbnail.png",
+          "size_bytes": 33428,
+          "size_mb": 0.03,
+          "sha256": "0079a4ef95915840efb239e50bdb2e9392a6f5f515121b2dba2719c12eeeb80a",
+          "is_3d_model": false
+        },
+        {
+          "name": "preview_top.png",
+          "size_bytes": 325063,
+          "size_mb": 0.31,
+          "sha256": "8da77572344ba9d12622f5b7ac108a92395ab4bb274b1cf17cc3b8c6d2038501",
+          "is_3d_model": false
+        },
+        {
+          "name": "room_photographic_model.glb",
+          "size_bytes": 46888696,
+          "size_mb": 44.72,
+          "sha256": "ae60a7ee751b2dc04af536447d91af22dbf0423488a230aa5c8eec4f267a1951",
+          "is_3d_model": true
+        }
+      ]
+    },
+    {
+      "id": "indoor_nov1_191043_photographic_v2",
+      "name": "NOVEMBER 1 \u2014 19:10:43 INDOOR DIGITAL TWIN (V2 ENHANCED)",
+      "category": "Indoor Architecture",
+      "files": [
+        {
+          "name": "metadata.json",
+          "size_bytes": 224,
+          "size_mb": 0.0,
+          "sha256": "2b6aff91d919f1051dd5446716e3f64d8dffdecffaebe9fb31ce129ff7e76601",
+          "is_3d_model": false
+        },
+        {
+          "name": "preview_eye_level.png",
+          "size_bytes": 322928,
+          "size_mb": 0.31,
+          "sha256": "6b0024c7e18ee75288661b840109201aec4bc5458533fc12538499eacb9ecb36",
+          "is_3d_model": false
+        },
+        {
+          "name": "preview_thumbnail.png",
+          "size_bytes": 32696,
+          "size_mb": 0.03,
+          "sha256": "7088e425025dd34df748aa5326f4c133ef8e5bb482848e9a30d69cacceb1f092",
+          "is_3d_model": false
+        },
+        {
+          "name": "preview_top.png",
+          "size_bytes": 293131,
+          "size_mb": 0.28,
+          "sha256": "2ff91684600d2db0a96cc68bb729b43e32010836afe6528e9a2c61336a028d09",
+          "is_3d_model": false
+        },
+        {
+          "name": "room_photographic_model.glb",
+          "size_bytes": 30653584,
+          "size_mb": 29.23,
+          "sha256": "08af5a66a9baeb2624b28bbed68e231cb8b533f26e4fb788440db29913e93bdb",
+          "is_3d_model": true
+        }
+      ]
+    },
+    {
+      "id": "indoor_nov1_191043_photographic",
+      "name": "NOVEMBER 1 \u2014 19:10:43 INDOOR DIGITAL TWIN",
+      "category": "Indoor Architecture",
+      "files": [
+        {
+          "name": "metadata.json",
+          "size_bytes": 207,
+          "size_mb": 0.0,
+          "sha256": "627e18abd658d3736577f86868f9fce329a4d14f6bd89463eb391264beec4374",
+          "is_3d_model": false
+        },
+        {
+          "name": "preview_eye_level.png",
+          "size_bytes": 310947,
+          "size_mb": 0.3,
+          "sha256": "3805f7727a6b54254392566308fa7ade5c167ab28717a850e6d4176833dd5216",
+          "is_3d_model": false
+        },
+        {
+          "name": "preview_thumbnail.png",
+          "size_bytes": 31611,
+          "size_mb": 0.03,
+          "sha256": "9d76db5babbc8285087827ceebc6a6a48843631e4625708faa4cdeac4b64bc12",
+          "is_3d_model": false
+        },
+        {
+          "name": "preview_top.png",
+          "size_bytes": 275912,
+          "size_mb": 0.26,
+          "sha256": "ed936e37f8b1ad00d1fd9defa440ae442f51b36091082809340f9b88aed075d0",
+          "is_3d_model": false
+        },
+        {
+          "name": "room_photographic_model.glb",
+          "size_bytes": 30321944,
+          "size_mb": 28.92,
+          "sha256": "1a45fc08b4ae7b1a9414f06ee285e6a17c3126f0db8ef24fa88d18a0bda96a70",
+          "is_3d_model": true
+        }
+      ]
+    },
+    {
+      "id": "indoor_nov1_185144_photographic",
+      "name": "NOVEMBER 1 \u2014 18:51:44 INDOOR DIGITAL TWIN",
+      "category": "Indoor Architecture",
+      "files": [
+        {
+          "name": "metadata.json",
+          "size_bytes": 207,
+          "size_mb": 0.0,
+          "sha256": "0d9052a0cadfe929b4c6ff4ee84efa5d85f7b8da909acccec9d6c0739daf5ac4",
+          "is_3d_model": false
+        },
+        {
+          "name": "preview_eye_level.png",
+          "size_bytes": 278600,
+          "size_mb": 0.27,
+          "sha256": "da3e489ffd8b4e300bbee4ae224c8255a504ee4b982e6eb363d81802f2887a12",
+          "is_3d_model": false
+        },
+        {
+          "name": "preview_thumbnail.png",
+          "size_bytes": 26212,
+          "size_mb": 0.02,
+          "sha256": "a73163baa396d2446274f2910497f5b6df73cfae09423fa264a5897edccbc781",
+          "is_3d_model": false
+        },
+        {
+          "name": "preview_top.png",
+          "size_bytes": 294335,
+          "size_mb": 0.28,
+          "sha256": "57a430adff2018e37c45cbecc6b459735336f0fb8fd3d5a4f1f83a2911860735",
+          "is_3d_model": false
+        },
+        {
+          "name": "room_photographic_model.glb",
+          "size_bytes": 35834064,
+          "size_mb": 34.17,
+          "sha256": "80a7fa3a8672c12c75d29523aa9c369dc2a2755858c61247d1c2a642af3f777a",
+          "is_3d_model": true
+        }
+      ]
+    },
+    {
+      "id": "indoor_nov1_180530_photographic",
+      "name": "RASHTRIYA RAKSHA UNIVERSITY \u2014 NSCS LOBBY & CORRIDOR",
+      "category": "Indoor Architecture",
+      "files": [
+        {
+          "name": "metadata.json",
+          "size_bytes": 217,
+          "size_mb": 0.0,
+          "sha256": "72fc83b1cc2d73df2d1781bbb0991e2b86049e2542b71c501410e8658c0a0917",
+          "is_3d_model": false
+        },
+        {
+          "name": "preview_eye_level.png",
+          "size_bytes": 50818,
+          "size_mb": 0.05,
+          "sha256": "2e16f6c3853657c8bce0e5e21034f731a6c7aa484a177a10a2e1b51ecd488f18",
+          "is_3d_model": false
+        },
+        {
+          "name": "preview_thumbnail.png",
+          "size_bytes": 5103,
+          "size_mb": 0.0,
+          "sha256": "ba33c5259776cfbb7c83fc04493ba60243a0c38e5e3ec6298e69cb596af4e2e0",
+          "is_3d_model": false
+        },
+        {
+          "name": "preview_top.png",
+          "size_bytes": 89223,
+          "size_mb": 0.09,
+          "sha256": "32dd08ea6323076c09fdf33a554f4e2ea45005e07c26ccb62eb82938bc1997e5",
+          "is_3d_model": false
+        },
+        {
+          "name": "room_photographic_model.glb",
+          "size_bytes": 33531320,
+          "size_mb": 31.98,
+          "sha256": "4b6bc41159d6d608f85c0610215b31f16089d77afcc27065c01f7f426f120ab4",
+          "is_3d_model": true
+        }
+      ]
+    },
+    {
+      "id": "indoor_nov1_candidate_c_photographic",
+      "name": "HOSTEL ROOM B 314 \u2014 CANDIDATE C (OBJECT-AWARE 8K TWIN)",
+      "category": "Indoor Architecture",
+      "files": [
+        {
+          "name": "candidate_c_photographic_room.glb",
+          "size_bytes": 35882828,
+          "size_mb": 34.22,
+          "sha256": "f73906721b50477182947edd7b29ee76ff3c257c06444ec1502d2b040a7b4a7b",
+          "is_3d_model": true
+        },
+        {
+          "name": "metadata.json",
+          "size_bytes": 225,
+          "size_mb": 0.0,
+          "sha256": "da59fe109bfde0400b8b384ef558c6521db10262ab7a7caaaf16c7db5fa4f167",
+          "is_3d_model": false
+        },
+        {
+          "name": "preview_eye_level.png",
+          "size_bytes": 265195,
+          "size_mb": 0.25,
+          "sha256": "3c99d1829cd63631eac35ccd04b04b513861223127628d32391ea0e1f22ddcc4",
+          "is_3d_model": false
+        },
+        {
+          "name": "preview_thumbnail.png",
+          "size_bytes": 24559,
+          "size_mb": 0.02,
+          "sha256": "82b63fc72d7009425529d16fca9d3048b862982c7508b86bd390c118b4512678",
+          "is_3d_model": false
+        },
+        {
+          "name": "preview_top.png",
+          "size_bytes": 540482,
+          "size_mb": 0.52,
+          "sha256": "a6f4760370839c15e8efb1cf49f198c8765a684e565c340144ef9bd0b25a6ecb",
+          "is_3d_model": false
+        }
+      ]
+    },
+    {
+      "id": "indoor_nov1_poisson",
+      "name": "HOSTEL ROOM B 314 \u2014 POISSON MESH (NOVEMBER 1)",
+      "category": "Indoor Architecture",
+      "files": [
+        {
+          "name": "metadata.json",
+          "size_bytes": 911,
+          "size_mb": 0.0,
+          "sha256": "377d07e92bc314ea457e07b9dee33ecd1461d3f51f47db00de69481a607a4a17",
+          "is_3d_model": false
+        },
+        {
+          "name": "poisson_mesh.ply",
+          "size_bytes": 72213235,
+          "size_mb": 68.87,
+          "sha256": "80df04264c6addf8ac5df56bfc4169d2b9322b61126e64a6303678b4c2bbd3e5",
+          "is_3d_model": true
+        },
+        {
+          "name": "preview_eye_level.png",
+          "size_bytes": 794558,
+          "size_mb": 0.76,
+          "sha256": "c92e88950020eb04fa6c120fff21ea8d649df8721d3a79c6bd5e5f10085e3e12",
+          "is_3d_model": false
+        },
+        {
+          "name": "preview_thumbnail.png",
+          "size_bytes": 74132,
+          "size_mb": 0.07,
+          "sha256": "174e0f95c3b72d787b1de6c1a16652e9e50ea094e2180642a097c809c47e36bb",
+          "is_3d_model": false
+        },
+        {
+          "name": "preview_top.png",
+          "size_bytes": 185815,
+          "size_mb": 0.18,
+          "sha256": "95bb3798416adf61cc40f663490871e34a4bb94d7d955dd786f83a6532ebd103",
+          "is_3d_model": false
+        }
+      ]
+    },
+    {
+      "id": "texture_experiment_video_20261101_142811",
+      "name": "HOSTEL ROOM B 314 \u2014 CANONICAL TEXTURED DIGITAL TWIN (NOV 1)",
+      "category": "Indoor Architecture",
+      "files": [
+        {
+          "name": "metadata.json",
+          "size_bytes": 3403,
+          "size_mb": 0.0,
+          "sha256": "8efc78566f4989f5112c9fc8ba920923b941cc8adbf4dd0fbcfd85297c1a7010",
+          "is_3d_model": false
+        },
+        {
+          "name": "room_photographic_model.glb",
+          "size_bytes": 29447588,
+          "size_mb": 28.08,
+          "sha256": "e47c748b4ae430ad8697dc8828b5950f23394500970d193444f5a03acf84ca09",
+          "is_3d_model": true
+        }
+      ]
+    },
+    {
+      "id": "indoor_room_digital_twin_nov1",
+      "name": "HOSTEL ROOM B 314 \u2014 COMPLETE DIGITAL TWIN (NOV 1)",
+      "category": "Indoor Architecture",
+      "files": [
+        {
+          "name": "architectural_shell.glb",
+          "size_bytes": 10452976,
+          "size_mb": 9.97,
+          "sha256": "2da125d9312dba316f28ecdf5dd468085b5bfdc2946748c0f87974237dff06e5",
+          "is_3d_model": true
+        },
+        {
+          "name": "metadata.json",
+          "size_bytes": 212,
+          "size_mb": 0.0,
+          "sha256": "681e9baea9fb8bd316e12bebad99ae02b2c66cbd53b48724bde19a6538948135",
+          "is_3d_model": false
+        },
+        {
+          "name": "room_model.glb",
+          "size_bytes": 13872264,
+          "size_mb": 13.23,
+          "sha256": "b4c0b6f998e789e7d1ebe9f401b0611b361322a0e23310c4b6a3d4809d78692a",
+          "is_3d_model": true
+        }
+      ]
+    },
+    {
+      "id": "indoor_controlled_three_frame_small_scene",
+      "name": "CONTROLLED 3-FRAME RECONSTRUCTION \u2014 STUDY DESK & WINDOW WALL",
+      "category": "Indoor Architecture",
+      "files": [
+        {
+          "name": "metadata.json",
+          "size_bytes": 235,
+          "size_mb": 0.0,
+          "sha256": "f774e4ac6f8034455f3083eec1368f39c9d3b2c02f5cdb306467953ecdfd6af1",
+          "is_3d_model": false
+        },
+        {
+          "name": "small_scene_desk_window_checkerboard.glb",
+          "size_bytes": 12135432,
+          "size_mb": 11.57,
+          "sha256": "c1775e85c594747222c86334fae2c10faf9733b1b9797fe019419ffc84ff5a10",
+          "is_3d_model": true
+        },
+        {
+          "name": "small_scene_desk_window_photographic.glb",
+          "size_bytes": 13795572,
+          "size_mb": 13.16,
+          "sha256": "02da6b770aaba97bf6ad40c0e63809678051b54300801c7597b6b5de7190838f",
+          "is_3d_model": true
+        }
+      ]
+    },
+    {
+      "id": "indoor_candidate_h3_architecture_hybrid",
+      "name": "HOSTEL ROOM B 314 \u2014 CANDIDATE H3 (ARCHITECTURE-AWARE HYBRID TWIN)",
+      "category": "Indoor Architecture",
+      "files": [
+        {
+          "name": "candidate_h3_photographic_textured.glb",
+          "size_bytes": 39912508,
+          "size_mb": 38.06,
+          "sha256": "6845908149ccfd4ad6ca619ec2a0ad3b6b39b484204d594127ea71c96e4b5716",
+          "is_3d_model": true
+        },
+        {
+          "name": "metadata.json",
+          "size_bytes": 239,
+          "size_mb": 0.0,
+          "sha256": "9ad7478f529855d9ec1bc0800695b49514bef0b69d8f90a6042ffff1972e30e1",
+          "is_3d_model": false
+        }
+      ]
+    },
+    {
+      "id": "indoor_candidate_b_sharpest",
+      "name": "HOSTEL ROOM B 314 \u2014 CANDIDATE B (SHARPEST WINNER-TAKE-ALL)",
+      "category": "Indoor Architecture",
+      "files": [
+        {
+          "name": "candidate_b_sharpest_winner_take_all.glb",
+          "size_bytes": 35143972,
+          "size_mb": 33.52,
+          "sha256": "248d07da77fbbbcdec954ab008d0ae019b748acad0d2bab3dec2c2708d88a2d0",
+          "is_3d_model": true
+        },
+        {
+          "name": "metadata.json",
+          "size_bytes": 220,
+          "size_mb": 0.0,
+          "sha256": "683d4df52ff02be67f5753ff53d5cfa8f4aa4a0cda215bec57d704d7fd7bb45b",
+          "is_3d_model": false
+        }
+      ]
+    },
+    {
+      "id": "indoor_candidate_c_blended",
+      "name": "HOSTEL ROOM B 314 \u2014 CANDIDATE C (SEAM-AWARE BLENDED)",
+      "category": "Indoor Architecture",
+      "files": [
+        {
+          "name": "candidate_c_seam_aware_blended.glb",
+          "size_bytes": 35598292,
+          "size_mb": 33.95,
+          "sha256": "3b06467a67d8e9456ea78601f015252e22b73e782aa8a71961255c35e6aaa1fd",
+          "is_3d_model": true
+        },
+        {
+          "name": "metadata.json",
+          "size_bytes": 213,
+          "size_mb": 0.0,
+          "sha256": "55110260564cb910d82ca9be00bdb4e30ea6e73478ff6c63f700311764eb24df",
+          "is_3d_model": false
+        }
+      ]
+    },
+    {
+      "id": "indoor_coverage_heatmap",
+      "name": "HOSTEL ROOM B 314 \u2014 4-CATEGORY COVERAGE HEATMAP",
+      "category": "Indoor Architecture",
+      "files": [
+        {
+          "name": "coverage_heatmap.glb",
+          "size_bytes": 4906624,
+          "size_mb": 4.68,
+          "sha256": "3caff0ef1cfd976d2121f0f9a6ee4b46f078b2939d55d3cab3862bb21831bc8d",
+          "is_3d_model": true
+        },
+        {
+          "name": "metadata.json",
+          "size_bytes": 205,
+          "size_mb": 0.0,
+          "sha256": "78665c19189ee41dfd9318aa74bae4daa428baab2da016184cf5f867b7bd07c1",
+          "is_3d_model": false
+        }
+      ]
+    },
+    {
+      "id": "texture_experiment_video1_reproduced",
+      "name": "HOSTEL ROOM B 314 \u2014 REPRODUCED texture_experiment_video1",
+      "category": "Indoor Architecture",
+      "files": [
+        {
+          "name": "metadata.json",
+          "size_bytes": 227,
+          "size_mb": 0.0,
+          "sha256": "9ed9f0d319f279a0aa3cde57d5ad9e90049183e9d9148be3179a5a285fa5d395",
+          "is_3d_model": false
+        },
+        {
+          "name": "room_photographic_model.glb",
+          "size_bytes": 29416352,
+          "size_mb": 28.05,
+          "sha256": "48c69ac0f6eea3b1b0dba271bf1e28c5479826a4ffc4f00a9ecbd20c5aad60d4",
+          "is_3d_model": true
+        }
+      ]
+    },
+    {
+      "id": "outdoor_pipeline_applied_video1",
+      "name": "HOSTEL ROOM B 314 \u2014 REUSED OUTDOOR ARCHITECTURE (POISSON HQ + 4K ATLAS)",
+      "category": "Indoor Architecture",
+      "files": [
+        {
+          "name": "indoor_reconstruction.glb",
+          "size_bytes": 46623896,
+          "size_mb": 44.46,
+          "sha256": "8457a069ac0c2ff90881899ddaf04e4c14eb7a666c394abf6e720440ee3f9cd5",
+          "is_3d_model": true
+        },
+        {
+          "name": "metadata.json",
+          "size_bytes": 238,
+          "size_mb": 0.0,
+          "sha256": "3cbc9cf757e22537a3aac7ae86c0fca5769409ee11805029e514a84b6c7974f9",
+          "is_3d_model": false
+        }
+      ]
+    },
+    {
+      "id": "clean_slate_video1_textured",
+      "name": "HOSTEL ROOM B 314 \u2014 CLEAN-SLATE TWIN (15mm TSDF)",
+      "category": "Indoor Architecture",
+      "files": [
+        {
+          "name": "metadata.json",
+          "size_bytes": 209,
+          "size_mb": 0.0,
+          "sha256": "1dc744c2e5e733f02da68aed3e7ea6343e83fa6994458feb5f53252648a70cdd",
+          "is_3d_model": false
+        },
+        {
+          "name": "model_clean_textured.glb",
+          "size_bytes": 20481512,
+          "size_mb": 19.53,
+          "sha256": "74a53fa4f6bd0aa12d9cf49c6c9386e32064d758d324f6c7079c76446d9aad39",
+          "is_3d_model": true
+        }
+      ]
+    },
+    {
+      "id": "video1_vggt_tsdf_candidate_a_textured",
+      "name": "HOSTEL ROOM B 314 \u2014 COMPLETE TEXTURED TWIN (40s)",
+      "category": "Indoor Architecture",
+      "files": [
+        {
+          "name": "metadata.json",
+          "size_bytes": 219,
+          "size_mb": 0.0,
+          "sha256": "ddc8dc2eeadad605e05f56781ffd95a66d3976b54ec18c090eb2fc12a38bb9f6",
+          "is_3d_model": false
+        },
+        {
+          "name": "model_video1_textured.glb",
+          "size_bytes": 22073316,
+          "size_mb": 21.05,
+          "sha256": "60bd9260c92c8d42d22df42cdfce83a668f57be9e1b29035e71a9020f6c8b926",
+          "is_3d_model": true
+        }
+      ]
+    },
+    {
+      "id": "gate_d_candidate_a_textured",
+      "name": "GATE D \u2014 COMPLETE TEXTURED DIGITAL TWIN (136s)",
+      "category": "Indoor Architecture",
+      "files": [
+        {
+          "name": "metadata.json",
+          "size_bytes": 207,
+          "size_mb": 0.0,
+          "sha256": "3f9ce0bf03f87807ab60fdcaf6cc1d1304f6a33f918296c5cebe4a6369f13282",
+          "is_3d_model": false
+        },
+        {
+          "name": "model_gate_d_textured.glb",
+          "size_bytes": 22993892,
+          "size_mb": 21.93,
+          "sha256": "ce03aaa3c06163a5e8aaa8d2ec9cb6fa085b5b0af6dfbe9c3a7011543734db16",
+          "is_3d_model": true
+        }
+      ]
+    },
+    {
+      "id": "gate_d_tsdf_15mm_mesh",
+      "name": "GATE D \u2014 15mm TSDF SURFACE MESH (UNTEXTURED)",
+      "category": "Indoor Architecture",
+      "files": [
+        {
+          "name": "metadata.json",
+          "size_bytes": 199,
+          "size_mb": 0.0,
+          "sha256": "c7fe2ac8b037dfd6333a63eaa0fc3c8e4068a7c4632bef2e129c8b32601f1785",
+          "is_3d_model": false
+        },
+        {
+          "name": "tsdf_mesh_voxel_15mm.glb",
+          "size_bytes": 3206920,
+          "size_mb": 3.06,
+          "sha256": "d18a97886619c8896641f88605dd958529478b9d0db917dcc23a6df868c18431",
+          "is_3d_model": true
+        }
+      ]
+    },
+    {
+      "id": "gate_d_full_pre_tsdf",
+      "name": "GATE D \u2014 FULL PRE-TSDF POINT CLOUD (136s, 59 WINS)",
+      "category": "Indoor Diagnostic & Pilot",
+      "files": [
+        {
+          "name": "full_pre_tsdf_density_heatmap.ply",
+          "size_bytes": 6934592,
+          "size_mb": 6.61,
+          "sha256": "ae778626a77a483961bfdf450c41eeb3936f21ba8d51d4af55a639e78716ee3f",
+          "is_3d_model": true
+        },
+        {
+          "name": "full_pre_tsdf_point_cloud_12mm.ply",
+          "size_bytes": 7207130,
+          "size_mb": 6.87,
+          "sha256": "8577ce8a5049494c0190af7e93f3a355ecdce1434251823d2550721fc8c3f6d7",
+          "is_3d_model": true
+        },
+        {
+          "name": "metadata.json",
+          "size_bytes": 206,
+          "size_mb": 0.0,
+          "sha256": "21e3c4c016cb97ac8f09f852dbe015c4d9e2e6ee95e8c8a9423a181bcf4fd765",
+          "is_3d_model": false
+        }
+      ]
+    },
+    {
+      "id": "gate_c_candidate_a",
+      "name": "CANDIDATE A \u2014 CORRECTED SIM(3)",
+      "category": "Indoor Architecture",
+      "files": [
+        {
+          "name": "metadata.json",
+          "size_bytes": 181,
+          "size_mb": 0.0,
+          "sha256": "e42743282bd7fd881ae60ee4b9c4e053e1c610db3c8cf1473de52b826de65fc8",
+          "is_3d_model": false
+        },
+        {
+          "name": "tsdf_mesh_candidate_A_bounded_sim3.glb",
+          "size_bytes": 879600,
+          "size_mb": 0.84,
+          "sha256": "976f5fabfdaa749f488dc0cd9ecde0c04430799890477f9aab44f59ef9912918",
+          "is_3d_model": true
+        }
+      ]
+    },
+    {
+      "id": "gate_c_baseline_defective",
+      "name": "BASELINE \u2014 DEFECTIVE",
+      "category": "Indoor Architecture",
+      "files": [
+        {
+          "name": "metadata.json",
+          "size_bytes": 178,
+          "size_mb": 0.0,
+          "sha256": "608d6623bdae8ded7496cc454a89d9c220029c92b3f201413fa4b5df1d0da3ee",
+          "is_3d_model": false
+        },
+        {
+          "name": "tsdf_mesh_baseline_defective.glb",
+          "size_bytes": 973852,
+          "size_mb": 0.93,
+          "sha256": "7d466a94a9e25f0bfc5ddc9c44fcdd2204ceb7f2016ac1d33d70f5d722d961cc",
+          "is_3d_model": true
+        }
+      ]
+    },
+    {
+      "id": "gate_c_candidate_b",
+      "name": "CANDIDATE B \u2014 RIGID SE(3)",
+      "category": "Indoor Architecture",
+      "files": [
+        {
+          "name": "metadata.json",
+          "size_bytes": 176,
+          "size_mb": 0.0,
+          "sha256": "f8fcfd88dac52a03ac58a866465f70819b88d4b6eb313ffb896faf7374baff50",
+          "is_3d_model": false
+        },
+        {
+          "name": "tsdf_mesh_candidate_B_rigid_se3.glb",
+          "size_bytes": 973948,
+          "size_mb": 0.93,
+          "sha256": "6c5402d18e5076481209b9e711e92836d411eda6bc8b418a4f17d6a6ab845f55",
+          "is_3d_model": true
+        }
+      ]
+    },
+    {
+      "id": "indoor_vggt_tsdf_room_20261031",
+      "name": "Indoor Room (VGGT + TSDF Fusion)",
+      "category": "Indoor Architecture",
+      "files": [
+        {
+          "name": "metadata.json",
+          "size_bytes": 192,
+          "size_mb": 0.0,
+          "sha256": "54f58d3084d86d9d90b6c47de88aec0d9230812ff35d1f6b63995f08d3564bfa",
+          "is_3d_model": false
+        },
+        {
+          "name": "model_tsdf_textured.glb",
+          "size_bytes": 27468796,
+          "size_mb": 26.2,
+          "sha256": "1f3291b111dbe1a4d88f678ceace464de6010ee4af3fcbc0d82e75040e4930f0",
+          "is_3d_model": true
+        }
+      ]
+    },
+    {
+      "id": "indoor_stage2_room_b314",
+      "name": "Hostel Room B 314 (Stage 2 Diagnostic)",
+      "category": "Indoor Architecture",
+      "files": [
+        {
+          "name": "final_stage2_model.glb",
+          "size_bytes": 33057680,
+          "size_mb": 31.53,
+          "sha256": "efb863270406df4938f726df13dd87df8aa4e6d3c3ed766f246dcb5e8203f748",
+          "is_3d_model": true
+        },
+        {
+          "name": "metadata.json",
+          "size_bytes": 191,
+          "size_mb": 0.0,
+          "sha256": "88aacc5a752162eb68ce227deab5bd143d0ce9d0a4a497a1e25def5396c69406",
+          "is_3d_model": false
+        }
+      ]
+    },
+    {
+      "id": "indoor_stage2_corridor",
+      "name": "Hostel Corridor (Stage 2 Diagnostic)",
+      "category": "Indoor Architecture",
+      "files": [
+        {
+          "name": "final_stage2_model.glb",
+          "size_bytes": 32870496,
+          "size_mb": 31.35,
+          "sha256": "108827baf86aae7690a99dde76e8314fc27d5fd1da26c4656d1bdb855f021b0d",
+          "is_3d_model": true
+        },
+        {
+          "name": "metadata.json",
+          "size_bytes": 188,
+          "size_mb": 0.0,
+          "sha256": "151f439d2b5af90cd0939b34a7e8dd3b622950a970929bb864950c5d77371a0c",
+          "is_3d_model": false
+        }
+      ]
+    },
+    {
+      "id": "indoor_room_attempt_4_new_video",
+      "name": "Computer Lab (New Video Source)",
+      "category": "Indoor Architecture",
+      "files": [
+        {
+          "name": "metadata.json",
+          "size_bytes": 194,
+          "size_mb": 0.0,
+          "sha256": "2fecec8f3946d1ae272512619b7fa911f398a3972af1721c149d46470ba1752f",
+          "is_3d_model": false
+        },
+        {
+          "name": "preview_eye_level.png",
+          "size_bytes": 306192,
+          "size_mb": 0.29,
+          "sha256": "b6344e9360b4fd06f27876d49d24ad9ef28fa8e656752607d52a163df6699f1a",
+          "is_3d_model": false
+        },
+        {
+          "name": "preview_thumbnail.png",
+          "size_bytes": 447840,
+          "size_mb": 0.43,
+          "sha256": "1da8e7bd0ed3c28f3a1ab4b49b12f79eed35baee266ae84fc6d89fb1240391ca",
+          "is_3d_model": false
+        },
+        {
+          "name": "preview_top.png",
+          "size_bytes": 518014,
+          "size_mb": 0.49,
+          "sha256": "daada21266a48c09926e803f7f06ebfe7102b678d7337a3ad42ebb62b7d78e3c",
+          "is_3d_model": false
+        },
+        {
+          "name": "room_model.glb",
+          "size_bytes": 44661868,
+          "size_mb": 42.59,
+          "sha256": "34fe8d7ad03e0398e01a8716791cf7655f7c01532533054cc8fb99418c2d0b67",
+          "is_3d_model": true
+        }
+      ]
+    },
+    {
+      "id": "indoor_room_001",
+      "name": "Indoor Room 001",
+      "category": "Indoor Architecture",
+      "files": [
+        {
+          "name": "metadata.json",
+          "size_bytes": 160,
+          "size_mb": 0.0,
+          "sha256": "0a91235a1c12e5e25577ed68570f0377c8cf75e8c4c8c65f16725f4721612926",
+          "is_3d_model": false
+        },
+        {
+          "name": "preview_eye_level.png",
+          "size_bytes": 173186,
+          "size_mb": 0.17,
+          "sha256": "6de0cab841f6135dbb1b5ee35f9dd28b386f4c93fb9af763f424aa4803bbab95",
+          "is_3d_model": false
+        },
+        {
+          "name": "preview_thumbnail.png",
+          "size_bytes": 288103,
+          "size_mb": 0.27,
+          "sha256": "bc700bfd21f6d678540950b0ffc55248619f537938bb28e860e3daca2972ed6e",
+          "is_3d_model": false
+        },
+        {
+          "name": "preview_top.png",
+          "size_bytes": 326119,
+          "size_mb": 0.31,
+          "sha256": "f55795be369ecb61a1f88f27a00184ad7b61b31028a780b2b96064d1e215db48",
+          "is_3d_model": false
+        },
+        {
+          "name": "room_model.ply",
+          "size_bytes": 14900007,
+          "size_mb": 14.21,
+          "sha256": "cbaaddecfca81571f0493fa10540faac2081211e36d31000e3c72d66a622dd85",
+          "is_3d_model": true
+        },
+        {
+          "name": "room_model_canonical.mtl",
+          "size_bytes": 169,
+          "size_mb": 0.0,
+          "sha256": "bf83450de120f985a0b39a53ee0a83317fde2e09080bdee941e2fbd8eb510829",
+          "is_3d_model": false
+        },
+        {
+          "name": "room_model_canonical.obj",
+          "size_bytes": 34060691,
+          "size_mb": 32.48,
+          "sha256": "c7ab3fa5a2ecde7bcbdcbadfbf913d1a0f09e026cc1308a60cbf0c3ef339e0a7",
+          "is_3d_model": true
+        }
+      ]
+    },
+    {
+      "id": "campus_0049",
+      "name": "Campus 0049",
+      "category": "Architectural Survey",
+      "files": [
+        {
+          "name": "metadata.json",
+          "size_bytes": 153,
+          "size_mb": 0.0,
+          "sha256": "c1edd12600938dd90bd4b48cc19be65b8476c08f60406fa4b7eb05224b94d597",
+          "is_3d_model": false
+        },
+        {
+          "name": "preview_thumbnail.png",
+          "size_bytes": 136356,
+          "size_mb": 0.13,
+          "sha256": "6deac9626486756d11028c9f94678f708d38e6dba35bef6922f6d39c4f64796a",
+          "is_3d_model": false
+        },
+        {
+          "name": "preview_top.png",
+          "size_bytes": 136356,
+          "size_mb": 0.13,
+          "sha256": "6deac9626486756d11028c9f94678f708d38e6dba35bef6922f6d39c4f64796a",
+          "is_3d_model": false
+        },
+        {
+          "name": "surface_mesh_photographic.ply",
+          "size_bytes": 9840793,
+          "size_mb": 9.38,
+          "sha256": "143a0e9d21b543ec9863dfcede67b0818b277f70d2c2d3d0387014d01533308f",
+          "is_3d_model": true
+        },
+        {
+          "name": "surface_mesh_repaired.ply",
+          "size_bytes": 9840793,
+          "size_mb": 9.38,
+          "sha256": "adb753a0a5d7201504ed9ff493a5174cb879cc230182b8a13b3905563985fceb",
+          "is_3d_model": true
+        },
+        {
+          "name": "textured_mesh.mtl",
+          "size_bytes": 176,
+          "size_mb": 0.0,
+          "sha256": "c32e0bf6cdd60037a49ec7c3075e930e3b748657266802e7512363c14f6993cf",
+          "is_3d_model": false
+        },
+        {
+          "name": "textured_mesh.obj",
+          "size_bytes": 31281376,
+          "size_mb": 29.83,
+          "sha256": "7278af1cbeb04ce8c31d83db50b09d59ea9516903f62f4561b3d05bbd62daf82",
+          "is_3d_model": true
+        }
+      ]
+    },
+    {
+      "id": "desert_road_candidate_a",
+      "name": "Desert Road \u2014 Candidate A",
+      "category": "Highway Infrastructure",
+      "files": [
+        {
+          "name": "metadata.json",
+          "size_bytes": 185,
+          "size_mb": 0.0,
+          "sha256": "6872e666cfa12d06b3fd59b6a3986140456cfa8a59dfc7a257a493b190ebf21f",
+          "is_3d_model": false
+        },
+        {
+          "name": "preview_thumbnail.png",
+          "size_bytes": 49716,
+          "size_mb": 0.05,
+          "sha256": "a1bde4ffd98264883e2e8a2378512aaf43fdbb9007d1be815f8ec780a2eb94c5",
+          "is_3d_model": false
+        },
+        {
+          "name": "preview_top.png",
+          "size_bytes": 49716,
+          "size_mb": 0.05,
+          "sha256": "a1bde4ffd98264883e2e8a2378512aaf43fdbb9007d1be815f8ec780a2eb94c5",
+          "is_3d_model": false
+        },
+        {
+          "name": "surface_mesh_photographic.ply",
+          "size_bytes": 4077915,
+          "size_mb": 3.89,
+          "sha256": "5625a5a2436abd6bca780b86efde8687246675f0e47b270f37440b006099ae44",
+          "is_3d_model": true
+        },
+        {
+          "name": "surface_mesh_static_clean.ply",
+          "size_bytes": 4077915,
+          "size_mb": 3.89,
+          "sha256": "b442150ca2d5a4b1d196c8f83d9f36b2aa330a7b815b708c9a1a17f177259a11",
+          "is_3d_model": true
+        },
+        {
+          "name": "textured_mesh.mtl",
+          "size_bytes": 175,
+          "size_mb": 0.0,
+          "sha256": "9768a160330c54d7a314081360d0c164902303a256327653c3c8fd6049edcc33",
+          "is_3d_model": false
+        },
+        {
+          "name": "textured_mesh.obj",
+          "size_bytes": 14301214,
+          "size_mb": 13.64,
+          "sha256": "6d91b36b94afbda4fef3aa7e25ae1ac55b0ad5fc1807e061e8693468bb24d433",
+          "is_3d_model": true
+        }
+      ]
+    },
+    {
+      "id": "desert_road_candidate_b",
+      "name": "Desert Road \u2014 Candidate B",
+      "category": "Highway Infrastructure",
+      "files": [
+        {
+          "name": "metadata.json",
+          "size_bytes": 185,
+          "size_mb": 0.0,
+          "sha256": "f056b72ecb5ee3c4d41ee5a6a669f255ae0d860e88aaf716df73ce4496f24804",
+          "is_3d_model": false
+        },
+        {
+          "name": "preview_thumbnail.png",
+          "size_bytes": 50138,
+          "size_mb": 0.05,
+          "sha256": "79db5236ac92a6dca9e6efe19ed0f24db57c90dca293a5e9ca4962fc5d01c426",
+          "is_3d_model": false
+        },
+        {
+          "name": "preview_top.png",
+          "size_bytes": 50138,
+          "size_mb": 0.05,
+          "sha256": "79db5236ac92a6dca9e6efe19ed0f24db57c90dca293a5e9ca4962fc5d01c426",
+          "is_3d_model": false
+        },
+        {
+          "name": "surface_mesh_vehicle_stabilized.ply",
+          "size_bytes": 4080210,
+          "size_mb": 3.89,
+          "sha256": "3088a560227c9b821b289ac7c4ec3a23ccacda3d6d056c84d7b56a955828f185",
+          "is_3d_model": true
+        },
+        {
+          "name": "surface_mesh_vehicle_stabilized_photographic.ply",
+          "size_bytes": 4080210,
+          "size_mb": 3.89,
+          "sha256": "674ad0ec3d0b40a8fdb9f0680301912a0d7e3a0552c4ef3526740e285f053edf",
+          "is_3d_model": true
+        },
+        {
+          "name": "textured_mesh.mtl",
+          "size_bytes": 175,
+          "size_mb": 0.0,
+          "sha256": "9768a160330c54d7a314081360d0c164902303a256327653c3c8fd6049edcc33",
+          "is_3d_model": false
+        },
+        {
+          "name": "textured_mesh.obj",
+          "size_bytes": 14308562,
+          "size_mb": 13.65,
+          "sha256": "ee0fdd35524fff4357c048c29a4454fb982a7283ac1183f8d6ad863822f3a0f4",
+          "is_3d_model": true
+        }
+      ]
+    },
+    {
+      "id": "forest_road",
+      "name": "Forest Road",
+      "category": "Terrain & Vegetation",
+      "files": [
+        {
+          "name": "metadata.json",
+          "size_bytes": 153,
+          "size_mb": 0.0,
+          "sha256": "8db60d71b4787e702419711860afd8c4fd3be58380124ece0bfe94b7ff43d0ad",
+          "is_3d_model": false
+        },
+        {
+          "name": "preview_thumbnail.png",
+          "size_bytes": 468046,
+          "size_mb": 0.45,
+          "sha256": "5eb2fc2a09ce80b281a5fa1c72651a1a1f35427576e028d893e39fa06e629342",
+          "is_3d_model": false
+        },
+        {
+          "name": "preview_top.png",
+          "size_bytes": 153745,
+          "size_mb": 0.15,
+          "sha256": "abb176879927e70eb9a2754b4ce4987695163511ae95798ff5cc320b5a91319c",
+          "is_3d_model": false
+        },
+        {
+          "name": "surface_mesh_photographic.ply",
+          "size_bytes": 35558818,
+          "size_mb": 33.91,
+          "sha256": "1cb5896612a8b1d040b35553ea2000df97d7a3311c59e4e2f42afcdd6c63bfc0",
+          "is_3d_model": true
+        },
+        {
+          "name": "surface_mesh_repaired.ply",
+          "size_bytes": 35558818,
+          "size_mb": 33.91,
+          "sha256": "1d635dce8c9d023093d4b43fdeb420be4f366fc6d08aa6c4a391121cf03f875c",
+          "is_3d_model": true
+        },
+        {
+          "name": "textured_mesh.glb",
+          "size_bytes": 25620496,
+          "size_mb": 24.43,
+          "sha256": "062df3f204d680201153454ded871a576832af79c39df758793630e48278064f",
+          "is_3d_model": true
+        }
+      ]
+    },
+    {
+      "id": "river_bridge",
+      "name": "River/Bridge",
+      "category": "Civil Infrastructure",
+      "files": [
+        {
+          "name": "metadata.json",
+          "size_bytes": 155,
+          "size_mb": 0.0,
+          "sha256": "daaeedf18d910e71db93107e5f5d4fb389ab7be6c416e99139195eeb2c77120e",
+          "is_3d_model": false
+        },
+        {
+          "name": "preview_thumbnail.png",
+          "size_bytes": 481778,
+          "size_mb": 0.46,
+          "sha256": "b5c5d4b3694c58bbfea15d72155d036bba13f76e83bbe2af91c0c979a52dd2b9",
+          "is_3d_model": false
+        },
+        {
+          "name": "preview_top.png",
+          "size_bytes": 150324,
+          "size_mb": 0.14,
+          "sha256": "9aa8fbcd727924fe884ddac5f4f8780c42e819854f52fa229597aef39656eb81",
+          "is_3d_model": false
+        },
+        {
+          "name": "surface_mesh_photographic.ply",
+          "size_bytes": 10142855,
+          "size_mb": 9.67,
+          "sha256": "4be4958e3b81a0a8ea2ca0ad3c7cb18c39e196884065920c5c11abaad9d7758c",
+          "is_3d_model": true
+        },
+        {
+          "name": "surface_mesh_repaired.ply",
+          "size_bytes": 10142855,
+          "size_mb": 9.67,
+          "sha256": "7d049e9e2e680a6c002b362d4f6e7a501fa01896aedfd3cd82922d0a7f7f9be7",
+          "is_3d_model": true
+        },
+        {
+          "name": "textured_mesh.mtl",
+          "size_bytes": 176,
+          "size_mb": 0.0,
+          "sha256": "c32e0bf6cdd60037a49ec7c3075e930e3b748657266802e7512363c14f6993cf",
+          "is_3d_model": false
+        },
+        {
+          "name": "textured_mesh.obj",
+          "size_bytes": 32270618,
+          "size_mb": 30.78,
+          "sha256": "fb28f5522dbae5d28ee9358d8e8056a1252ef8f56db39ccf2984b3c7c28808a9",
+          "is_3d_model": true
+        }
+      ]
+    },
+    {
+      "id": "indoor_candidate_d_rigid_poisson_hq",
+      "name": "HOSTEL ROOM B 314 \u2014 CANDIDATE D (RIGID SE(3) POISSON HQ)",
+      "category": "Indoor Architecture",
+      "files": [
+        {
+          "name": "candidate_d_rigid_poisson_hq.glb",
+          "size_bytes": 67802688,
+          "size_mb": 64.66,
+          "sha256": "28c9b2a675736996f14aa6840bd59accaf52c512454f1ca5a2a130ee9bc03fa4",
+          "is_3d_model": true
+        },
+        {
+          "name": "metadata.json",
+          "size_bytes": 226,
+          "size_mb": 0.0,
+          "sha256": "a58eeeb2cc8bab5bee02aef1bf7456976b3dbf75ef57b4cf681add5b35eb8e45",
+          "is_3d_model": false
+        }
+      ]
+    },
+    {
+      "id": "indoor_candidate_e_rigid_tsdf",
+      "name": "HOSTEL ROOM B 314 \u2014 CANDIDATE E (RIGID SE(3) TSDF 1.5cm)",
+      "category": "Indoor Architecture",
+      "files": [
+        {
+          "name": "candidate_e_rigid_tsdf_mesh.glb",
+          "size_bytes": 43103136,
+          "size_mb": 41.11,
+          "sha256": "f455da45db8ea08e01cac8f18a370248ed586dd37e61c1aa0a6f2172bd5ffa1c",
+          "is_3d_model": true
+        },
+        {
+          "name": "metadata.json",
+          "size_bytes": 220,
+          "size_mb": 0.0,
+          "sha256": "0a038b2d32d38652d01bff3388bde054f8a8ff6ce8e02e9b0f28384fd171ef72",
+          "is_3d_model": false
+        }
+      ]
+    },
+    {
+      "id": "indoor_candidate_f_poisson_continuous",
+      "name": "HOSTEL ROOM B 314 \u2014 CANDIDATE F (CONTINUOUS POISSON HQ)",
+      "category": "Indoor Architecture",
+      "files": [
+        {
+          "name": "candidate_f_poisson_continuous.glb",
+          "size_bytes": 43419868,
+          "size_mb": 41.41,
+          "sha256": "0a1f2a14e976f633b9647ac09bd01d87257b48c65f805636a0437c502c0b8e48",
+          "is_3d_model": true
+        },
+        {
+          "name": "metadata.json",
+          "size_bytes": 228,
+          "size_mb": 0.0,
+          "sha256": "829b02079f5a6edd5639a6c335d36eb58aa714a4b6da33d268644b8b7a1d7bea",
+          "is_3d_model": false
+        }
+      ]
+    },
+    {
+      "id": "indoor_candidate_g_tsdf_volumetric",
+      "name": "HOSTEL ROOM B 314 \u2014 CANDIDATE G (SCALABLE TSDF VOLUMETRIC)",
+      "category": "Indoor Architecture",
+      "files": [
+        {
+          "name": "candidate_g_tsdf_volumetric.glb",
+          "size_bytes": 15801336,
+          "size_mb": 15.07,
+          "sha256": "00c8c79d0b5217fc49279c719c7d790f6aa85db233b17037269a6615a0c073dd",
+          "is_3d_model": true
+        },
+        {
+          "name": "metadata.json",
+          "size_bytes": 227,
+          "size_mb": 0.0,
+          "sha256": "71e8ecdba08997a2d754ec6217cd3a26f9096f272a4b95af354603a7ecfe618c",
+          "is_3d_model": false
+        }
+      ]
+    }
+  ],
+  "total_files_size_bytes": 1339353405,
+  "total_files_size_mb": 1277.31,
+  "total_models_count": 55
+}

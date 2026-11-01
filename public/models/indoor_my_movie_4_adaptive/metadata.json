@@ -1,0 +1,179 @@
+{
+  "pipeline_version": "adaptive_multiresolution_v1",
+  "dataset_name": "My movie 4 (Adaptive Quality Full Survey)",
+  "source_video": {
+    "path": "C:\\Users\\25beevdt025\\Downloads\\My movie 4.mp4",
+    "sha256": "8482d7a7748684d83346e9401d2637debd4653cc21b102c5658963252778f28c",
+    "duration_sec": 421.47,
+    "resolution": [
+      1080,
+      1920
+    ],
+    "fps": 30.0
+  },
+  "reconstruction_runtime_sec": 399.48,
+  "point_cloud": {
+    "total_raw_points": 6220800,
+    "valid_masked_points": 6142406,
+    "filtered_points": 337439,
+    "voxel_size_m": 0.008
+  },
+  "lod_hierarchy": {
+    "lod0": {
+      "label": "Master High Quality",
+      "triangles": 549999,
+      "vertices": 273591,
+      "atlas": "8192x8192 (8K)",
+      "glb_size_mb": 78.33,
+      "sha256": "270258b3462b49dc3c6de74c77b9e27645b7b987d826dbbedf00d708df405bf4"
+    },
+    "lod1": {
+      "label": "Balanced Runtime Quality",
+      "triangles": 250000,
+      "vertices": 123185,
+      "atlas": "4096x4096 (4K)",
+      "glb_size_mb": 30.47,
+      "sha256": "d4ad6cddb449e73ddb68ddd485e6e1aa4b7a4fae596a4c05a2e87ed9a1e2915c"
+    },
+    "lod2": {
+      "label": "Performance / Distant Overview",
+      "triangles": 79999,
+      "vertices": 37482,
+      "atlas": "2048x2048 (2K)",
+      "glb_size_mb": 9.48,
+      "sha256": "c3acbe2b44b661e7e414a3e42c0433c20153a70a7c29dd75529f968ef895254f"
+    }
+  },
+  "spatial_partitioning": {
+    "spatial_chunks_count": 4,
+    "grid_layout": "2x2 Quadrants (Northwest, Northeast, Southwest, Southeast)",
+    "center": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "chunks": [
+      {
+        "chunk_id": 0,
+        "name": "chunk_0_northwest",
+        "bbox_min": [
+          -1.033,
+          -0.282,
+          -0.633
+        ],
+        "bbox_max": [
+          0.011,
+          0.405,
+          0.018
+        ],
+        "center": [
+          -0.511,
+          0.061,
+          -0.308
+        ],
+        "triangles_lod0": 143654,
+        "triangles_lod1": 71827,
+        "triangles_lod2": 28730,
+        "files": {
+          "lod0": "chunk_0_northwest_lod0.glb",
+          "lod1": "chunk_0_northwest_lod1.glb",
+          "lod2": "chunk_0_northwest_lod2.glb"
+        }
+      },
+      {
+        "chunk_id": 1,
+        "name": "chunk_1_northeast",
+        "bbox_min": [
+          -0.011,
+          -0.307,
+          -0.743
+        ],
+        "bbox_max": [
+          0.764,
+          0.42,
+          0.01
+        ],
+        "center": [
+          0.376,
+          0.056,
+          -0.367
+        ],
+        "triangles_lod0": 145304,
+        "triangles_lod1": 72652,
+        "triangles_lod2": 29060,
+        "files": {
+          "lod0": "chunk_1_northeast_lod0.glb",
+          "lod1": "chunk_1_northeast_lod1.glb",
+          "lod2": "chunk_1_northeast_lod2.glb"
+        }
+      },
+      {
+        "chunk_id": 2,
+        "name": "chunk_2_southwest",
+        "bbox_min": [
+          -0.927,
+          -0.258,
+          -0.023
+        ],
+        "bbox_max": [
+          0.018,
+          0.536,
+          0.675
+        ],
+        "center": [
+          -0.454,
+          0.139,
+          0.326
+        ],
+        "triangles_lod0": 125326,
+        "triangles_lod1": 62663,
+        "triangles_lod2": 25064,
+        "files": {
+          "lod0": "chunk_2_southwest_lod0.glb",
+          "lod1": "chunk_2_southwest_lod1.glb",
+          "lod2": "chunk_2_southwest_lod2.glb"
+        }
+      },
+      {
+        "chunk_id": 3,
+        "name": "chunk_3_southeast",
+        "bbox_min": [
+          -0.014,
+          -0.35,
+          -0.006
+        ],
+        "bbox_max": [
+          0.842,
+          0.49,
+          0.735
+        ],
+        "center": [
+          0.414,
+          0.07,
+          0.364
+        ],
+        "triangles_lod0": 135715,
+        "triangles_lod1": 67856,
+        "triangles_lod2": 27142,
+        "files": {
+          "lod0": "chunk_3_southeast_lod0.glb",
+          "lod1": "chunk_3_southeast_lod1.glb",
+          "lod2": "chunk_3_southeast_lod2.glb"
+        }
+      }
+    ]
+  },
+  "deliverables": {
+    "lod0_glb": "room_photographic_model_lod0.glb",
+    "lod1_glb": "room_photographic_model_lod1.glb",
+    "lod2_glb": "room_photographic_model_lod2.glb",
+    "canonical_obj": "room_photographic_model_lod0.obj",
+    "canonical_mtl": "room_photographic_model_lod0.mtl",
+    "vertex_ply": "room_photographic_model_lod0.ply",
+    "texture_atlas_8k": "texture_atlas_8k.png",
+    "texture_atlas_4k": "texture_atlas_4k.png",
+    "texture_atlas_2k": "texture_atlas_2k.png",
+    "filtered_point_cloud": "filtered_point_cloud.ply",
+    "raw_point_cloud": "raw_point_cloud.ply"
+  }
+}

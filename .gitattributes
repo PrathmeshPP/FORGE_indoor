@@ -1,0 +1,10 @@
+# Binary file handling (prevent CRLF/LF line ending modification)
+*.obj binary
+*.ply binary
+*.glb binary
+*.gltf binary
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.bin binary
+*.wasm binary

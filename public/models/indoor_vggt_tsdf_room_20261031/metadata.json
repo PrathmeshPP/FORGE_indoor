@@ -1,0 +1,7 @@
+{
+  "scene_id": "indoor_vggt_tsdf_room_20261031",
+  "display_name": "Indoor Room (VGGT + TSDF Fusion)",
+  "category": "Indoor Architecture",
+  "triangles": 194731,
+  "vertices": 111310
+}

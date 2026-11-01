@@ -1,0 +1,7 @@
+{
+  "scene_id": "indoor_candidate_e_rigid_tsdf",
+  "display_name": "HOSTEL ROOM B 314 \u2014 CANDIDATE E (RIGID SE(3) TSDF 1.5cm)",
+  "category": "Indoor Architecture",
+  "triangles": 330958,
+  "vertices": 195680
+}
