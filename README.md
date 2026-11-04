@@ -4,21 +4,6 @@
 
 An interactive, high-performance WebGL digital twin viewer and 3D reconstruction explorer powered by Three.js and React.
 
-## 🚀 1-Click Vercel Deployment
-
-This repository is pre-configured for direct Vercel import:
-
-1. Open **[Vercel Dashboard](https://vercel.com/)** -> **Add New...** -> **Project**.
-2. Select repository: **`PrathmeshPP/FORGE_indoor`**.
-3. Vercel automatically detects the framework:
-   - **Framework Preset:** `Vite`
-   - **Root Directory:** `./`
-   - **Build Command:** `npm run build`
-   - **Output Directory:** `dist`
-4. Click **Deploy**. Within 60 seconds, your public URL will be live!
-
----
-
 ## 🎮 Shared Navigation Controls (Available in ALL Scenes)
 
 Every scene supports universal first-person walkthrough and 3D flight:
